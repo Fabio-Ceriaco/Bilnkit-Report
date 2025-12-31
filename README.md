@@ -25,13 +25,13 @@ B - Chart's
 
 # Software Used
 
-- Microsoft SQL Server
-- Microsoft Power Bi
+  - Microsoft SQL Server
+  - Microsoft Power Bi
 
 # Stacks
 
--SQL
--DAX
+  -SQL
+  -DAX
 
 # Report URL
 https://app.powerbi.com/groups/me/reports/2855dd46-b237-4098-b472-e23f01e732e9?ctid=a5e1f76b-b8c5-4a5e-ac22-12d6761d958f&pbi_source=linkShare
